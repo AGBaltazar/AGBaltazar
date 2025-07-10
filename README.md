@@ -1,34 +1,45 @@
 # 👋 Hi, I’m Alejandro Garcia Baltazar (@AGBaltazar)
 
-Welcome to my GitHub profile! I’m a **Computer Science graduate** with a passion for building web and mobile applications. My primary focus is on **JavaScript**, **Node.js**, and **Flutter**, but I’m always expanding my knowledge of other technologies like **C++**.
+Welcome to my GitHub profile! I’m a **Computer Science graduate** with a passion for building both **web** and **backend systems**. While I began with mobile and frontend development, I've grown to enjoy designing scalable, efficient backends using modern technologies like **Go**, **Python**, and **PostgreSQL**.
+
+---
 
 ## 🌟 About Me:
 - 🎓 **Computer Science Graduate** (Class of 2024) from the University of Arkansas, Grantham.
-- 💻 Proficient in **JavaScript**, **HTML**, **CSS**, **Flutter**, and **Node.js**.
-- 🌱 Currently learning more about **backend development**, and **software engineering best practices**.
-- 🛠️ Experienced in building cross-platform mobile apps with **Flutter**, and web applications using **JavaScript** and **Firebase**.
-- 📊 I enjoy solving real-world problems through technology and aim to build scalable, efficient solutions.
+- 💻 Skilled in building full-stack applications, REST APIs, and backend services.
+- 🌱 Actively expanding my backend skills through projects and continued learning on **Boot.dev**.
+- 🛠️ Comfortable working with **Go (Golang)**, **Python**, **PostgreSQL**, and **JWT Auth**.
+- 📊 I enjoy solving real-world problems through clean architecture and maintainable code.
+
+---
 
 ## 💼 Open to Collaboration:
-- I’m looking to collaborate on **open-source projects**, **web applications**, or **mobile apps**, whether big or small.
-- Particularly interested in **JavaScript** and **Flutter** projects, but I’m open to exploring new tech stacks.
-- Let’s work together to create impactful software solutions!
+- Looking to collaborate on **open-source projects**, **backend systems**, **CLI tools**, or **mobile/web applications**.
+- Particularly interested in **Go**, **Python**, and **Flutter** projects—but always open to learning new stacks.
+- Let’s build something awesome together 🚀
+
+---
 
 ## 📫 How to Reach Me:
-- Email: algc150@gmail.com
-- LinkedIn: [Alejandro Garcia Baltazar](https://www.linkedin.com/in/alejandrobaltazar)
+- 📧 Email: agee.baltazar@icloud.com
+- 🔗 LinkedIn: [Alejandro Garcia Baltazar](https://www.linkedin.com/in/alejandrobaltazar)
 
 ---
 
 ## 📚 Tech Stack:
-- **Languages**: JavaScript, HTML, CSS, Python, C++, Dart
-- **Frameworks/Technologies**: Node.js, Flutter, Firebase, Google Maps API
-- **Tools**: Git, GitHub, Firebase Firestore, Firebase Auth, GitHub Actions
+
+### 🧠 Languages
+- Go (Golang), Python, JavaScript, HTML/CSS, C++, Dart
+
+### ⚙️ Frameworks & Tools
+- Node.js, Flutter, PostgreSQL, Firebase, REST APIs, Git, GitHub, GitHub Actions
+
+### 🧰 Other Experience
+- JWT Authentication, CLI Tools, Webhooks, JSON APIs, Google Maps API, Firebase Firestore & Auth
 
 ---
 
 Feel free to check out my repositories below and let’s build something great together!
-
 
 <!---
 AGBaltazar/AGBaltazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
