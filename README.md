@@ -29,6 +29,15 @@ MOSFET switching, inductive load control, pull-up/pull-down networks, power supp
 
 ---
 
+## Active Projects
+
+| Project | Description | Stack | Progress |
+|---|---|---|---|
+| [STM32 Self-Watering Planter](https://github.com/AGBaltazar/STM32Nucleo_AirPurifier) | Baremetal pump driver. Button-controlled MOSFET switching via direct register config. Nucleo G0B1CE. | C · ARM Cortex-M0+ · STM32CubeIDE | Completed |
+| TBD | TBD | TBD | TBD |
+
+---
+
 ## 📫 How to Reach Me:
 - 📧 Email: agee.baltazar@icloud.com
 - 🔗 LinkedIn: [Alejandro Garcia Baltazar](https://www.linkedin.com/in/alejandrobaltazar)
