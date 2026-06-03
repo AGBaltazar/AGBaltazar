@@ -1,22 +1,31 @@
-# 👋 Hi, I’m Alejandro Garcia Baltazar (@AGBaltazar)
+# Alejandro Garcia Baltazar (@AGBaltazar)
 
-Welcome to my GitHub profile! I’m a **Computer Science graduate** with a passion for building both **web** and **backend systems**. While I began with mobile and frontend development, I've grown to enjoy designing scalable, efficient backends using modern technologies like **Go**, **Python**, and **PostgreSQL**.
+Firmware and embedded systems engineer in training. CS graduate building from the silicon up — direct register manipulation, peripheral driver development, and real hardware.
 
----
-
-## 🌟 About Me:
-- 🎓 **Computer Science Graduate** (Class of 2024) from the University of Arkansas, Grantham.
-- 💻 Skilled in building full-stack applications, REST APIs, and backend services.
-- 🌱 Actively expanding my backend skills through projects and continued learning on **Boot.dev**.
-- 🛠️ Comfortable working with **Go (Golang)**, **Python**, **PostgreSQL**, and **JWT Auth**.
-- 📊 I enjoy solving real-world problems through clean architecture and maintainable code.
+Currently working through the ARM Cortex-M architecture hands-on, applying concepts immediately to physical builds rather than staying in simulation.
 
 ---
 
-## 💼 Open to Collaboration:
-- Looking to collaborate on **open-source projects**, **backend systems**, **CLI tools**, or **mobile/web applications**.
-- Particularly interested in **Go**, **Python**, and **Flutter** projects—but always open to learning new stacks.
-- Let’s build something awesome together 🚀
+## Focus Areas
+
+**Baremetal Embedded C**
+Direct register-level programming on STM32 microcontrollers. No HAL abstractions — MODER, OTYPER, BSRR, IDR configured by hand from the reference manual.
+
+**Peripheral Driver Development**
+Studying and implementing GPIO, SPI, I2C, and USART drivers from scratch. Coursework: FastBit Embedded Brain Academy — *Mastering Microcontroller and Embedded Driver Development* (MCU1).
+
+**Hardware Interfacing**
+MOSFET switching, inductive load control, pull-up/pull-down networks, power supply design. Learning the hard way when necessary.
+
+---
+
+## Technical Foundation
+
+**Architecture:** ARM Cortex-M0+, memory-mapped I/O, vector tables, NVIC  
+**Peripherals:** GPIO (input/output/alternate), RCC clock enable, EXTI  
+**Protocols (in progress):** SPI, I2C, USART  
+**Toolchain:** STM32CubeIDE, GDB, linker scripts, startup assembly  
+**Hardware:** Breadboard prototyping, MOSFET drive circuits, datasheet navigation
 
 ---
 
@@ -25,21 +34,6 @@ Welcome to my GitHub profile! I’m a **Computer Science graduate** with a passi
 - 🔗 LinkedIn: [Alejandro Garcia Baltazar](https://www.linkedin.com/in/alejandrobaltazar)
 
 ---
-
-## 📚 Tech Stack:
-
-### 🧠 Languages
-- Go (Golang), Python, JavaScript, HTML/CSS, C++, Dart
-
-### ⚙️ Frameworks & Tools
-- Node.js, Flutter, PostgreSQL, Firebase, REST APIs, Git, GitHub, GitHub Actions
-
-### 🧰 Other Experience
-- JWT Authentication, CLI Tools, Webhooks, JSON APIs, Google Maps API, Firebase Firestore & Auth
-
----
-
-Feel free to check out my repositories below and let’s build something great together!
 
 <!---
 AGBaltazar/AGBaltazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
