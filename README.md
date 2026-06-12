@@ -33,8 +33,8 @@ MOSFET switching, inductive load control, pull-up/pull-down networks, power supp
 
 | Project | Description | Stack | Progress |
 |---|---|---|---|
-| [STM32 Self-Watering Planter](https://github.com/AGBaltazar/STM32Nucleo_AirPurifier) | Baremetal pump driver. Button-controlled MOSFET switching via direct register config. Nucleo G0B1CE. | C · ARM Cortex-M0+ · STM32CubeIDE | Completed |
-| TBD | TBD | TBD | TBD |
+| [STM32 Self-Watering Planter](https://github.com/AGBaltazar/STM32Nucleo_AirPurifier) | Baremetal pump driver. Button-controlled MOSFET switching via direct register config. Nucleo G0B1CE. | C · ARM Cortex-M0+ · STM32CubeIDE | On Hold |
+| ESP32 PlatformIO Template | A Simple template initiating 2 GPIOs | C · VSCode| Completed |
 
 ---
 
